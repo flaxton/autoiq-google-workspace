@@ -65,7 +65,7 @@ So, what do I need to get started?
 
 * A Windows or Mac computer
 * The Google Chrome web browser
-* Your Greenville Chorale email address (something@greenvillechorale.org)
+* Your Greenville Chorale email address (something@autoiqinc.com)
 * Your Greenville Chorale password
 
 __*You should have received the email address and password already - be sure to save them!*__
@@ -127,7 +127,7 @@ And you switch profiles by clicking on Profiles and then the profile you wish to
 
 ### <a name="gmail"></a>Gmail
 
-What is Gmail? It's the email system for Google accounts. Greenville Chorale is using Google Workspace, hence Google email, even though the addresses are something@greenvillechorale.org.
+What is Gmail? It's the email system for Google accounts. Greenville Chorale is using Google Workspace, hence Google email, even though the addresses are something@autoiqinc.com.
 
 **There are two ways to use your email account:**
 
