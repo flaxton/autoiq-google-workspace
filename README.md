@@ -7,7 +7,7 @@
 <td width="49%">
   <img width="300" height="149" src="https://autoiqinc.com/wp-content/uploads/2022/12/google-workspace-logo-512x255-1.png"> </td>
 <td width="49%">
-<img width="341" height="80" src="https://autoiqinc.com/wp-content/uploads/2022/12/freehand-logo-top-v01-red.png"> </td>
+<img width="341" height="144" src="https://autoiqinc.com/wp-content/uploads/2022/12/autoiq-red-logo.jpg"> </td>
 </tr>
 </table>
 </p>
