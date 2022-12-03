@@ -1,4 +1,3 @@
-# autoiq-google-workspace
 # Welcome to Google Workspace! <a name="top">
 
 <p align="center">
