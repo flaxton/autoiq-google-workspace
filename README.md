@@ -47,7 +47,7 @@ Google Workspace is a "cloud" service - which means that the files/folders/apps 
 
 Accessing Google Workspace is done using a web browser, preferably *Google Chrome*.
 
-The advantage of using Google Workspace is that you can share files and folders with other Greenville Chorale staff and Chorale members easily, instead of emailing documents, that are quickly out-of-date. Viewing or editing documents (if you have access to edit) requires no software at all, such as Microsoft Office, just a computer and web browser.
+The advantage of using Google Workspace is that you can share files and folders with other Auto IQ staff and Chorale members easily, instead of emailing documents, that are quickly out-of-date. Viewing or editing documents (if you have access to edit) requires no software at all, such as Microsoft Office, just a computer and web browser.
 
 Chorale staff can collaborate on documents, and even edit them at the same time.
 
@@ -65,8 +65,8 @@ So, what do I need to get started?
 
 * A Windows or Mac computer
 * The Google Chrome web browser
-* Your Greenville Chorale email address (something@autoiqinc.com)
-* Your Greenville Chorale password
+* Your Auto IQ email address (something@autoiqinc.com)
+* Your Auto IQ password
 
 __*You should have received the email address and password already - be sure to save them!*__
 
@@ -75,7 +75,7 @@ If you haven't received them, or misplaced them, contact Fred Laxton.
 * Windows users - if you use Microsoft Outlook, save them in a Contact
 * Mac users - open the Contacts app and save them there - they'll also be saved in iCloud
 
-Make the name of the card something like "Greenville Chorale email account" or some such, in the business name field (not First/Last name)
+Make the name of the card something like "Auto IQ email account" or some such, in the business name field (not First/Last name)
 
 In the notes of the contact, put the email address and password.
 
@@ -91,7 +91,7 @@ Why use Google Chrome? Because Google Workspace is made by Google, and other web
 
 ### <a name="chrome"></a>Using Google Chrome
 
-__*If*__ you already have a Google/Gmail account, you will want to use a separate profile for the Greenville Chorale account. 
+__*If*__ you already have a Google/Gmail account, you will want to use a separate profile for the Auto IQ account. 
 
 Here's how to add another profile on __*Chrome on Windows*__:
 
@@ -99,11 +99,11 @@ Here's how to add another profile on __*Chrome on Windows*__:
 
 ![Profile on Chrome Windows](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-1.png)
 
-Click "Add" to add your Greenville Chorale Google account, and signon:
+Click "Add" to add your Auto IQ Google account, and signon:
 
 ![New profile login](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-2.png)
 
-After giving your Greenville Chorale email address and password, you'll be asked to turn on sync:
+After giving your Auto IQ email address and password, you'll be asked to turn on sync:
 
 ![Turn on sync](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-3.png)
 
@@ -127,7 +127,7 @@ And you switch profiles by clicking on Profiles and then the profile you wish to
 
 ### <a name="gmail"></a>Gmail
 
-What is Gmail? It's the email system for Google accounts. Greenville Chorale is using Google Workspace, hence Google email, even though the addresses are something@autoiqinc.com.
+What is Gmail? It's the email system for Google accounts. Auto IQ is using Google Workspace, hence Google email, even though the addresses are something@autoiqinc.com.
 
 **There are two ways to use your email account:**
 
@@ -210,7 +210,7 @@ Google Drive is a file and folder viewer, like Explorer on Windows or Finder on 
 
 Bear in mind that your default Google Drive area is "My Drive" - these are private files/folders only on your account.
 
-Files and folders shared with other Greenville Chorale users are all in folders in "Shared with me" in the left sidebar.
+Files and folders shared with other Auto IQ users are all in folders in "Shared with me" in the left sidebar.
 
 ![Shared with me](https://greenvillechorale.org/wp-content/uploads/2022/08/drive-1.png)
 
