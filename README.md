@@ -48,7 +48,7 @@ Accessing Google Workspace is done using a web browser, preferably *Google Chrom
 
 The advantage of using Google Workspace is that you can share files and folders with other Auto IQ staff and Chorale members easily, instead of emailing documents, that are quickly out-of-date. Viewing or editing documents (if you have access to edit) requires no software at all, such as Microsoft Office, just a computer and web browser.
 
-Chorale staff can collaborate on documents, and even edit them at the same time.
+Staff can collaborate on documents, and even edit them at the same time.
 
 __*Changes are saved automatically as you type!*__
 
@@ -213,17 +213,11 @@ Files and folders shared with other Auto IQ users are all in folders in "Shared 
 
 ![Shared with me](https://greenvillechorale.org/wp-content/uploads/2022/08/drive-1.png)
 
-In "Shared with me", you'll find "Chorale Members" and "Chorale Staff" folders, and possibly others, depending on your access level.
+In "Shared with me", you'll find shared folders, depending on your access level.
 
 Feel free to create files and sub-folders in the existing folders in "Shared with me" as needed.
 
 If there is a need to create another top-level shared folder like these, please contact Fred.
-
-So for example, as you are working on documents for the Chorale members, keep them in the "Chorale members" folder. Only staff have access to this folder.
-
-However, within "Chorale Members", you will see folder "Chorale Public Access". This folder is linked to the website, and Chorale members can view any documents placed in it.
-
-So, put any finished documents in here that you want all Chorale members to be able to view. So for example, finalized documents like today's seating chart, would go here.
 
 [Back to Top](#top)
 
